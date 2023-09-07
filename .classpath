@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MCQ-Mini Project/Group M"/>
+	<classpathentry kind="lib" path="C:/10 june notes/August/21.08/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="output" path="MCQ-Mini Project/bin"/>
+</classpath>
